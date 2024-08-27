@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterprojects/Crud/insert.dart';
+import 'package:flutterprojects/Screens/insert.dart';
 import 'package:flutterprojects/Database/mongodb_connection.dart';
 
 void main() async {
